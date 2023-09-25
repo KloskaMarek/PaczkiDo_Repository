@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="umk_granatowy_100">#0050AA</color>
+    <color name="umk_granatowy_90">#105AA8</color>
+    <color name="umk_granatowy_80">#2163A5</color>
+    <color name="umk_granatowy_70">#306AA3</color>
+    <color name="umk_granatowy_60">#4072A0</color>
+    <color name="umk_granatowy_50">#4F799E</color>
+    <color name="umk_granatowy_40">#5D7E9B</color>
+    <color name="umk_granatowy_30">#6B8399</color>
+    <color name="umk_granatowy_20">#7A8A99</color>
+    <color name="umk_granatowy_10">#899199</color>
+
+    <color name="umk_zolty_100">#FFCD00</color>
+    <color name="umk_zolty_90">#FFD119</color>
+    <color name="umk_zolty_80">#FFD232</color>
+    <color name="umk_zolty_70">#FFD54C</color>
+    <color name="umk_zolty_60">#FFD866</color>
+    <color name="umk_zolty_50">#FFDD7F</color>
+    <color name="umk_zolty_40">#FFE399</color>
+    <color name="umk_zolty_30">#FFE9B2</color>
+    <color name="umk_zolty_20">#FFEFCC</color>
+    <color name="umk_zolty_10">#FFF6E5</color>
+
+    <color name="umk_czerwony">#FA1414</color>
+    <color name="umk_czerwony_60">#99FA1414</color>
+    <color name="umk_czerwony_40">#66FA1414</color>
+    <color name="umk_czerwony_20">#33FA1414</color>
+    <color name="umk_czerwony_jasny_80">#FF2525</color>
+    <color name="umk_czerwony_jasny_70">#FA4040</color>
+    <color name="umk_czerwony_jasny_60">#FD5959</color>
+    <color name="umk_czerwony_jasny_50">#FD7979</color>
+
+    <color name="umk_czarny">#1D1D1B</color>
+    <color name="umk_ciemny_szary">#575756</color>
+    <color name="umk_jasny_szary">#DADADA</color>
+
+    <color name="nowa">#FFCD00</color>
+    <color name="plan">#FF7AA5CA</color>
+    <color name="auto">#FFDD7F</color>
+    <color name="odebrana">#FF73BF7E</color>
+    <color name="wycofana">#FF2525</color>
+
+    <color name="umk_zielony_100">#009721</color>
+    <color name="umk_zielony_60">#398E48</color>
+    <color name="umk_zielony_50">#468C51</color>
+    <color name="umk_zielony_40">#52895A</color>
+
+    <color name="gray">#444444</color>
+    <color name="silver">#888888</color>
+</resources>

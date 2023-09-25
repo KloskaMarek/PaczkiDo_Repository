@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaczkiDo</string>
+    <string name="btnPaczkaText">999</string>
+    <string name="txtDlugiAdres">Szpital Uniwersytecki nr 2 im. dr. J. Biziela budynek główny, III piętro ul. Ujejskiego 75</string>
+    <string name="txtDlugaNazwaJednostki">Wydziałowy Zespół Naukowo-Dydaktyczny Endoskopii i Badań Czynnościowych Przewodu Pokarmowego Wieku Rozwojowego</string>
+    <string name="txtDlugaZawartosc">Natrium chloratum</string>
+    <string name="txtStatus">zaplanowana</string>
+</resources>
